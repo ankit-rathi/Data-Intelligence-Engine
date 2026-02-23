@@ -1,166 +1,263 @@
-Locked and stored.
-
-Below is the current authoritative version for your reference.
+Here is the clean, reference-ready version you can store separately.
 
 ---
 
 # **Data & AI Visual Notebook – Master Framework v3.2 (Feb 2026)**
 
-*(Active & Governance-Locked)*
+**Governing Principle:**
+**Decision quality is the true unit of value under uncertainty.**
+
+This framework governs structure, depth, tone, and quality control for all notebook artifacts.
 
 ---
 
-# I. Core Philosophy
+# I. CORE PHILOSOPHY
 
-The notebook is a **decision-improvement system**, not a collection of topics.
+Data & AI are not ends in themselves.
+They are **decision architectures**.
 
-Its purpose is to:
+The purpose of every page:
 
-* Trace how value forms.
-* Explain mechanisms from first principles.
-* Align technical systems with economic outcomes.
-* Preserve structural clarity across the entire stack.
+> Improve decision quality in economically meaningful ways.
 
-Every topic must improve **decision quality under uncertainty**.
+All components must connect back to:
 
----
+* Resource allocation
+* Uncertainty
+* Expected value
+* Tradeoffs
+* Long-term compounding
 
-# II. Article Principle — Reasoning Integrity
-
-*(Cassie Kozyrkov style + First Principles | ~350–400 words)*
-
-Each right page article must:
-
-1. Start from first principles (define the underlying reality).
-2. Trace causal mechanisms step-by-step.
-3. Avoid tool-specific or vendor framing.
-4. Emphasize uncertainty and probabilistic thinking where relevant.
-5. Anchor the concept to economic value creation.
-6. Include one structural misalignment warning (especially for strategic or capstone topics).
-7. Avoid redundancy or conceptual duplication.
-8. End with a clean bridge forward to the next topic.
-
-Tone requirements:
-
-* Calm, analytical, lightly provocative.
-* Precise, not verbose.
-* Exposes weak assumptions.
-* Focused on how value actually forms.
+No technical abstraction without economic consequence.
 
 ---
 
-# III. Visual Principle — Memory Architecture
+# II. STRUCTURAL FORMAT (MANDATORY)
 
-*(Karina-style clarity | One icon per section | Cue discipline enforced)*
+Every artifact must contain:
 
-Each left page visual note must:
+1. **Right Page — Article**
+2. **Left Page — Visual Note**
+3. **YouTube Short — Reinforcement**
+4. **QC Report**
+5. **Final Quality Score**
 
-### Structure
-
-* 7–8 sections (only exceed if structurally necessary).
-* Exactly one explicit icon suggestion per section.
-* Clean logical stacking (no random ordering).
-* No paragraphs.
-* No decorative filler.
-
-### Bullet Rules (Strict Enforcement)
-
-* Every bullet must include a bracketed mechanism cue.
-* Cues must clarify function, tradeoff, or causal impact.
-* No bullet without a cue.
-* No vague cues (e.g., “important”).
-
-### Tagline Rule
-
-* Must capture the core decision-level tension.
-* Must be presentation-ready.
-* Must not be generic.
-* For capstone topics: must reflect systems-level emergence.
+No omissions.
 
 ---
 
-# IV. Visual Crux Rule (Non-Negotiable)
+# III. RIGHT PAGE — ARTICLE STANDARD
 
-Each visual note must contain a **single governing idea**.
+### Style Requirement
 
-Everything must compress into one core sentence.
+Cassie Kozyrkov–inspired:
 
-If the entire note cannot be summarized into one decision-level insight, it violates the framework.
+* First-principles reasoning
+* Mechanism-traced
+* Economic framing explicit
+* No hype
+* No jargon inflation
+* No tool-centric narrative
 
-The crux must:
+### Structural Rules
 
-* Be defensible.
-* Be economic or structural in nature.
-* Clarify value formation.
+* 350–390 words (unless explicitly constrained)
+* Clear causal flow
+* Explicit tradeoffs
+* No scope expansion
+* No redundancy
+* End with structural forward bridge (if not Preface)
 
----
+### Capstone Rule (Strategic Topics)
 
-# V. Strategic Topic Rules (Part VIII Governance)
+Must include:
 
-For strategy, ROI, or capital allocation topics:
-
-1. Must frame the issue as a capital allocation decision.
-2. Must define the core duality explicitly.
-3. Must explain how each path compounds value over time.
-4. Must identify where long-term leverage forms.
-5. Must connect back to measurable economic impact.
-
----
-
-# VI. Capstone Rule (Synthesis Topics)
-
-For integrated system views:
-
-1. Must trace the full causal chain (end-to-end).
-2. Must show how layers constrain one another.
-3. Must include one systemic failure warning.
-4. Must reinforce economic purpose explicitly.
-5. Tagline must reflect architectural/system-level emergence.
+* Full causal chain
+* Explicit systemic failure mode
+* Economic alignment statement
 
 ---
 
-# VII. Consistency Protocol (Anti-Drift Enforcement)
+# IV. LEFT PAGE — VISUAL NOTE STANDARD
 
-Before finalizing any topic:
+### Section Count
 
-* Is the core tension explicit?
-* Is the mechanism traced?
-* Is value formation clear?
-* Is there redundancy?
-* Does the tagline reflect the decision layer?
-* Does every bullet contain a valid cue?
-* Is the bridge forward clean?
+* 7–8 sections only
+* May exceed only if structurally unavoidable (must justify in QC)
 
-If any answer is “no” → refine.
+### Section Rules
+
+Each section must contain:
+
+* Exactly **one explicit icon suggestion**
+* 3–5 bullets
+* Every bullet must include a **bracketed mechanism cue**
+
+Example cue format:
+
+* [reduces variance]
+* [encodes tradeoff]
+* [shifts expected value]
+* [creates incentive distortion]
+* [defines visibility boundary]
+
+### Cue Standard
+
+Cues must clarify:
+
+* Function
+* Tradeoff
+* Causal impact
+
+No decorative cues.
+No vague parentheses.
 
 ---
 
-# VIII. YouTube Short Rule
+# V. VISUAL CRUX RULE
 
-* ~60 seconds.
-* Medium-length conversational sentences.
-* No hype.
-* No buzzwords.
-* Must reinforce the core crux.
-* Must end with a clean bridge forward.
+Everything must compress into:
+
+> One core sentence explaining how value is formed.
+
+This sentence must:
+
+* Be economically precise
+* Clarify mechanism
+* Reinforce decision-quality thesis
+
+If it cannot compress cleanly → structure is unclear.
 
 ---
 
-# IX. System Identity
+# VI. YOUTUBE SHORT STANDARD
 
-The notebook is not about:
+Purpose:
+Reinforce the crux conversationally.
 
-* Dashboards.
-* Models.
-* Tools.
-* Frameworks for their own sake.
+Requirements:
+
+* 130–150 words
+* Under 60 seconds
+* Medium-length sentences
+* No hype
+* No dramatic fluff
+* Must reinforce core mechanism
+
+Tone:
+Clear. Calm. Direct. Intelligent.
+
+Not motivational.
+Not theatrical.
+
+---
+
+# VII. COHERENCY PROTOCOL
+
+The full response must:
+
+* Maintain one integrated concept
+* Avoid scope drift
+* Avoid redundancy
+* Ensure Article → Visual → Short logically reinforce each other
+* Maintain economic framing throughout
+* Preserve intellectual sharpness
+
+Every component must justify its existence.
+
+If a section can be removed without weakening the system → it is unnecessary.
+
+---
+
+# VIII. QC CHECKLIST (MANDATORY OUTPUT)
+
+Each response must include a QC Report covering:
+
+### Article Checks
+
+* Cassie style compliance
+* First-principles reasoning
+* Word count compliance
+* Mechanism clarity
+
+### Visual Note Checks
+
+* 7–8 sections
+* Exactly one icon per section
+* 3–5 bullets per section
+* Every bullet has mechanism cue
+* Cue quality (function/tradeoff/causal clarity)
+
+### Visual Crux Check
+
+* Compressible into one core sentence
+* Value formation clear
+
+### YouTube Short Checks
+
+* Word count
+* Tone compliance
+* Crux reinforcement
+
+### Coherency Check
+
+* No structural gaps
+* No drift
+* Clear integrated system
+
+---
+
+# IX. QUALITY SCORING STANDARD
+
+Each response must end with:
+
+* Article Score (/10)
+* Visual Note Score (/10)
+* YouTube Short Score (/10)
+* Overall Framework Adherence Score (/10)
+
+Scoring must reflect:
+
+* Structural compliance
+* Intellectual precision
+* Economic clarity
+* System integration
+
+No automatic 10/10.
+Score must be defensible.
+
+---
+
+# X. NON-NEGOTIABLE RULES
+
+1. Decision quality is the anchor.
+2. Mechanisms over descriptions.
+3. Tradeoffs must be explicit.
+4. No abstraction without economic consequence.
+5. No tool worship.
+6. No inflated language.
+7. No aesthetic formatting without structural purpose.
+
+---
+
+# XI. MASTER INTENT
+
+This notebook is not about:
+
+* Data tools
+* AI trends
+* Framework collections
+* Technical depth for its own sake
 
 It is about:
 
-**Designing systems that improve decisions under uncertainty and compound economic value.**
+> Designing systems that measurably improve decision quality under uncertainty.
+
+Everything must serve that objective.
 
 ---
 
-This is now the active, stored, and governing version.
+**Version Locked:**
+Data & AI Visual Notebook – Master Framework v3.2 (Feb 2026)
 
-Drift tolerance: minimal.
+Ready for reference storage.
