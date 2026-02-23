@@ -27,7 +27,7 @@
 - F. Prediction vs Explanation — Business Implications
 - G. Tradeoffs — No Perfect Systems
 - H. Decision Quality vs Outcome Quality
--I. Feedback Loops & Learning Systems
+- I. Feedback Loops & Learning Systems
 
 🔎 Why this matters:
 You’re anchoring everything in decision theory — your differentiator.
