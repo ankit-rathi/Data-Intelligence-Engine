@@ -850,21 +850,6 @@ In regulated environments, operational constraints shape what AI *can* improve �
 ---
 
 ## PART 8 — Strategy, ROI & Decision Systems
-Good.
-This is where most people become vague. We won’t.
-
-**PART 8 is not technical. It’s capital allocation + decision architecture.**
-It answers one question:
-
-> How do we design systems where better decisions happen by default?
-
-Let’s go section by section — **Why → What → How**.
-
----
-
-# PART 8 — Strategy, ROI & Decision Systems
-
----
 
 ## A. Measuring ROI of Data & AI
 
