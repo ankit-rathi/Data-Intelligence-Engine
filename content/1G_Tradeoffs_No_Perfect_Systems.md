@@ -1,3 +1,13 @@
+## **G. Tradeoffs — No Perfect Systems**
+
+**Why:** Every choice involves giving something up. Ignoring tradeoffs produces brittle systems.
+
+**What:** Tradeoffs are **compromises between conflicting goals**, like speed vs accuracy, cost vs coverage.
+
+**How:** Explicitly map tradeoffs to inform priorities. Accept limitations, and optimize for the decision context rather than ideal metrics.
+
+---
+
 From first principles, resources are finite and objectives conflict. Time, capital, attention, and computational power cannot be maximized simultaneously across all dimensions. Therefore, every system design choice implies a tradeoff — improving one attribute at the expense of another. There is no perfect system because perfection would require unlimited resources and zero constraints.
 
 Tradeoffs arise because goals compete. Speed versus accuracy is a common example. A fraud detection system can apply deeper analysis to increase detection accuracy, but that may introduce latency in transaction approval. In e-commerce, customers expect instant checkout. If fraud screening takes too long, abandonment rises. Optimizing purely for accuracy may reduce revenue; optimizing purely for speed may increase fraud losses. The economically rational solution depends on balancing expected fraud cost against conversion impact.
