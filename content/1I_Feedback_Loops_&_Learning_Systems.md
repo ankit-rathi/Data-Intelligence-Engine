@@ -1,3 +1,13 @@
+## **I. Feedback Loops & Learning Systems**
+
+**Why:** Decisions improve only when experience feeds back into learning.
+
+**What:** Feedback loops are **mechanisms that capture results and update beliefs, processes, and models**.
+
+**How:** Implement loops for monitoring, experimentation, and model updates. Use them to correct errors, reinforce signal, and refine decision-making over time.
+
+---
+
 From first principles, any decision system operates with incomplete knowledge. It forms beliefs about how actions lead to outcomes, acts on those beliefs, and then observes results. Without a mechanism to compare expected outcomes with actual outcomes, the system cannot improve. This comparison-and-adjustment cycle is a feedback loop.
 
 A feedback loop has three core elements: action, observation, and update. An organization launches a pricing change (action), measures revenue and customer response (observation), and then adjusts pricing logic or assumptions (update). If the update step is missing, the system repeats the same behavior regardless of evidence. That is stagnation.
