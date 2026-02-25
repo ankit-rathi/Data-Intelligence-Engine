@@ -1,3 +1,13 @@
+## **C. Structured vs Unstructured Reality**
+
+**Why:** Raw reality is messy; structured formats simplify, but oversimplification can hide key mechanisms.
+
+**What:** Structured data is **schema-bound**, like tables; unstructured data is **freeform**, like text or images.
+
+**How:** Choose structure based on analysis needs. Structured data improves clarity; unstructured preserves nuance. A tradeoff exists between precision and fidelity.
+
+---
+
 From first principles, reality does not arrive neatly labeled. It is continuous, ambiguous, and high-dimensional. To make decisions, we compress reality into representations. The core tradeoff: compression increases clarity but reduces fidelity.
 
 **Structured data** is reality forced into a predefined schema — rows, columns, fixed data types. A sales table might contain: customer_id, product_id, price, date. Structure enforces consistency. It enables aggregation, filtering, and modeling with speed and precision. The schema acts as a contract: every record follows the same logic.
