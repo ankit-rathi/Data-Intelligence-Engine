@@ -1,3 +1,31 @@
+## F. Designing for Change & Evolution
+
+### Why
+
+Data systems decay. Business models change. Regulations shift.
+
+Static architectures die.
+
+### What
+
+Designing for change means:
+
+* Loose coupling
+* Schema evolution
+* Model retraining pipelines
+* Flexible governance
+
+### How
+
+* Decouple storage, compute, serving layers
+* Use versioned models and data
+* Build retraining triggers
+* Document assumptions explicitly
+
+Every system should assume drift — technical and strategic.
+
+---
+
 From first principles, no environment is static. Customer behavior shifts, competitors innovate, regulations evolve, and data distributions drift. Any system built on fixed assumptions will eventually diverge from reality. When reality changes but architecture does not, performance degrades silently until failure becomes visible.
 
 Data systems are especially vulnerable because they encode assumptions in schemas, models, and workflows. A credit model may assume income stability patterns from historical data. If macroeconomic conditions change, default behavior shifts. Without retraining, predictions become biased. The system continues operating, but decision quality deteriorates.
