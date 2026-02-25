@@ -1,3 +1,13 @@
+## **F. Prediction vs Explanation — Business Implications**
+
+**Why:** Knowing “what will happen” is different from “why it happens.” Decisions often require understanding both.
+
+**What:** Prediction estimates **future outcomes**; explanation uncovers **mechanisms and causal drivers**.
+
+**How:** ML models can predict trends, but integrating explanation allows for better risk assessment and scenario planning.
+
+---
+
 From first principles, a prediction answers the question: *What is likely to happen?* An explanation answers: *Why does it happen?* These are related but fundamentally different objectives. Prediction is about estimating future states with acceptable accuracy. Explanation is about identifying mechanisms that connect cause and effect.
 
 A system can predict without understanding. Weather models forecast rain based on patterns in atmospheric data, even if every micro-level interaction is not fully explained. Similarly, a machine learning model can predict customer churn with high accuracy by detecting patterns in behavior. But knowing that a customer is likely to leave is different from knowing why they are leaving.
