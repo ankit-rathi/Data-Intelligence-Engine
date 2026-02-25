@@ -1,3 +1,15 @@
+## PART 1 — Decisions, Uncertainty & Value
+
+## **A. What Is a Decision (and Why Most Systems Ignore It)**
+
+**Why:** Decisions are the foundation of value creation. Without understanding decisions, systems treat outputs (reports, dashboards) as the goal rather than tools for action.
+
+**What:** A decision is a **commitment of resources — time, money, attention — toward an uncertain outcome**. It is the real economic lever.
+
+**How:** By explicitly defining decisions and linking them to outcomes, organizations can measure decision quality rather than vanity outputs. Systems that ignore this treat data and models as ends instead of enablers.
+
+---
+
 Start from first principles.
 
 Every organization faces two constraints: resources are scarce, and the future is uncertain. Because resources are limited, they must be allocated. Because outcomes are uncertain, allocation is risky. That act of allocating scarce resources under uncertainty is a decision. This is the atomic unit of economics inside a company.
