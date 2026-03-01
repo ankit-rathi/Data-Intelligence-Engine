@@ -283,9 +283,3 @@ Very few programs do all four coherently.
 That’s your edge.
 
 ---
-
-If you want next, we can:
-
-* Convert this into a book-level narrative arc.
-* Design a 3-day workshop format.
-* Or simplify it into a one-page visual program architecture map.
