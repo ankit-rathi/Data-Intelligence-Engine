@@ -1,62 +1,52 @@
 ## Chapter 1 — The Decision Problem
 
-### Organizations Allocate Scarce Resources Through Decisions
+### Organizations Exist to Make Decisions
 
-- Every organization must decide how to allocate limited resources such as capital, time, and human talent.
-- Strategic decisions determine which opportunities the organization pursues and which risks it accepts.
-- Operational decisions guide everyday activities such as pricing, hiring, production planning, and marketing.
-- Although organizations are often described in terms of departments or processes, their core function is choosing among competing alternatives.
-- When viewed from this perspective, organizations exist primarily to coordinate and execute decisions that shape economic outcomes.
+* Organizations coordinate people, capital, and information in order to pursue economic opportunities.
+* Strategic choices determine how resources such as capital, talent, and time are allocated.
+* Operational choices guide everyday activities including pricing, production, hiring, and marketing.
+* Although organizations are often described through departments and processes, their fundamental function is choosing among competing alternatives.
+* When viewed from a systems perspective, organizations can be understood as mechanisms that convert information into decisions.
 
 ---
 
-### Decision-Making in an Uncertain World
+### Uncertainty as the Central Challenge of Decision Making
 
-- Organizations operate in environments where the future cannot be fully predicted.
-- Market demand fluctuates, competitors respond strategically, and external conditions change continuously.
-- As a result, decisions must be made without complete information about future consequences.
-- A decision therefore represents a choice among possible actions whose outcomes depend on uncertain events.
-- Managing uncertainty becomes one of the central challenges of organizational decision making.
+* Decisions must be made before the future is known.
+* Markets fluctuate, competitors respond strategically, and external conditions change continuously.
+* Because the future is uncertain, every decision represents a choice among actions whose outcomes cannot be predicted with certainty.
+* Decision makers must therefore reason under conditions of incomplete knowledge.
+* Managing uncertainty becomes one of the central challenges of organizational decision making.
 
 ---
 
 ### Distinguishing Decision Quality from Outcome Quality
 
-- The result of a decision is influenced by both the choice itself and external randomness.
-- Even a carefully reasoned decision can lead to an unfavorable outcome due to unforeseen circumstances.
-- Conversely, a poorly reasoned decision can occasionally produce a positive outcome by chance.
-- Evaluating decisions purely by their results can therefore reinforce bad reasoning and discourage sound thinking.
-- Effective organizations focus on improving the quality of reasoning, assumptions, and information used when making decisions.
+* Outcomes are influenced by both the decision itself and unpredictable external events.
+* Even a carefully reasoned decision can produce an unfavorable outcome due to factors outside the organization’s control.
+* Conversely, a poorly reasoned decision may occasionally lead to a positive outcome through chance.
+* Evaluating decisions purely based on outcomes can reinforce poor reasoning and reward luck.
+* Effective organizations focus on improving the quality of reasoning, assumptions, and information used when making decisions.
 
 ---
 
 ### The Limits of Intuition in Complex Organizations
 
-- Humans naturally rely on intuition and experience when making decisions.
-- Intuition works effectively in simple environments where patterns are stable and feedback is immediate.
-- Modern organizations, however, operate in complex systems involving large datasets, delayed feedback loops, and many interacting variables.
-- As organizational scale and complexity grow, it becomes increasingly difficult for individuals to mentally process all relevant information.
-- This limitation creates a need for structured methods that help organizations observe reality, analyze information, and guide decision making.
+* Humans often rely on intuition and experience when making decisions.
+* Intuition works well in environments where patterns are stable and feedback is immediate.
+* Modern organizations operate in complex systems involving large datasets, delayed feedback, and multiple interacting variables.
+* As scale and complexity increase, it becomes difficult for individuals to mentally process all relevant information.
+* These limitations create the need for structured approaches that help organizations observe reality, analyze information, and guide decision making.
 
 ---
 
 ### From Observations to Organizational Decisions
 
-- Organizations gather signals from the world through customer interactions, operational metrics, and market observations.
-- These observations generate information about how the system is performing and how the environment is changing.
-- Information must be interpreted and synthesized to support choices among alternative actions.
-- Decisions based on richer information can reduce uncertainty and improve resource allocation.
-- Over time, organizations that systematically convert observations into insights develop stronger decision capabilities.
-
----
-
-### Example — Inventory Decisions in Retail
-
-- A retail company must decide how much inventory to stock before a major sales season.
-- If managers stock too much inventory and demand turns out to be low, unsold products tie up capital and increase storage costs.
-- If they stock too little inventory and demand exceeds expectations, the company loses potential sales and customer satisfaction.
-- Managers may analyze past demand patterns, seasonal trends, and market signals, but unexpected events—such as weather changes or competitor promotions—can still affect outcomes.
-- This example illustrates why decisions must be made under uncertainty and why the reasoning behind the decision is more important than the outcome alone.
+* Organizations continuously interact with their environment through customers, operations, and markets.
+* These interactions generate signals about what is happening in the real world.
+* Observations must be captured and interpreted in order to support decisions about future actions.
+* The effectiveness of an organization depends on how well it transforms observations into informed decisions.
+* This perspective reveals a deeper insight: organizations function as systems that convert signals from the environment into actions that produce outcomes.
 
 ---
 
@@ -64,60 +54,76 @@
 
 ### Textual Representation
 
+```text
+        Organizational Environment
+   (markets, customers, operations)
+
+                ↓
+
+            Observations
+
+                ↓
+
+             Decisions
+
+                ↓
+
+              Actions
+
+                ↓
+
+             Outcomes
 ```
-                Organizational Environment
-        (Markets, Customers, Competitors, Operations)
 
-                         ↓ Observations
+### Explanation
 
-                     [ Information ]
-
-                         ↓ Analysis
-
-                      [ Decisions ]
-
-                         ↓ Execution
-
-                       [ Actions ]
-
-                         ↓ Effects
-
-                      [ Outcomes ]
-```
-
-### Diagram Meaning
-
-The diagram shows how organizations convert signals from their environment into decisions and actions that ultimately produce outcomes.
+The diagram illustrates a simplified view of how organizations operate as decision systems.
+Signals from the external environment generate observations that inform organizational decisions.
+These decisions lead to actions such as launching products, adjusting prices, or allocating resources.
+Actions then produce outcomes that affect both the organization and its environment.
 
 ### Guidance for Drawing in PowerPoint
 
-- Use **five rectangular boxes** arranged vertically.
-- Label the boxes: *Information → Decisions → Actions → Outcomes*.
-- At the top, place a wider box labeled **Organizational Environment**.
-- Connect boxes with **downward arrows** to represent the flow from observation to outcome.
-- Optionally use **light shading or color** to distinguish environment from internal decision processes.
-- Keep the design minimal so it can serve as a conceptual foundation for later diagrams in the book.
+* Use **five vertically stacked rectangular boxes**.
+* Label them: **Environment → Observations → Decisions → Actions → Outcomes**.
+* Place the **Environment box slightly wider** than the others to indicate the external system.
+* Connect the boxes using **simple downward arrows** to represent the flow from observation to outcome.
+* Keep the visual style minimal and conceptual so the diagram can serve as the foundational model for later chapters.
 
 ---
 
-### Organizations as Systems That Convert Information into Outcomes
+## Example Section — Inventory Decisions in Retail
 
-- The example and diagram illustrate a broader principle: organizations continuously convert information into decisions and actions.
-- The effectiveness of an organization depends on how well it gathers signals from the environment and interprets them.
-- Better information enables better reasoning, which leads to better decisions and ultimately better outcomes.
-- Improving the quality of decisions therefore becomes one of the most powerful ways to improve organizational performance.
-- To improve decisions systematically, organizations must first understand how observations about reality are captured and represented as data.
+* A retail company must decide how much inventory to stock before an upcoming sales season.
+* The environment includes uncertain factors such as customer demand, competitor promotions, and economic conditions.
+* Managers observe signals from the environment, including historical sales data, seasonal patterns, and market trends.
+* Based on these observations, they decide how much inventory to purchase and distribute across stores.
+* This decision leads to operational actions such as ordering products from suppliers and stocking warehouses.
+* The final outcome depends on how actual customer demand compares with expectations.
+* If demand is lower than expected, excess inventory creates storage costs and ties up capital.
+* If demand is higher than expected, the company may lose sales due to stock shortages.
+* This example demonstrates how observations guide decisions, decisions drive actions, and actions ultimately produce outcomes under uncertainty.
+
+---
+
+## Organizations as Systems That Convert Information into Outcomes
+
+* The example illustrates a broader principle about how organizations operate.
+* Businesses continuously interpret signals from their environment in order to decide how resources should be allocated.
+* The effectiveness of an organization depends on how accurately it observes the world and how rationally it converts those observations into decisions.
+* Improving decision quality therefore becomes one of the most powerful ways to improve organizational performance.
+* To improve decisions systematically, organizations must develop reliable ways to observe reality and capture those observations as data.
 
 **Transition to the Next Chapter**
 
-If decisions depend on information about the world, the next question becomes how organizations obtain that information in the first place. The following chapter examines how observations about reality are captured, measured, and transformed into data.
+If decisions depend on information about the world, the next question becomes how organizations obtain that information. The following chapter explores how observations about reality are captured, measured, and transformed into data.
 
 ---
 
 ## References
 
-- Daniel Kahneman (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
-- Annie Duke (2018). *Thinking in Bets: Making Smarter Decisions When You Don’t Have All the Facts*. Portfolio.
-- Herbert A. Simon (1997). *Administrative Behavior: A Study of Decision-Making Processes in Administrative Organizations*. Free Press.
-- Richard Thaler & Cass Sunstein (2008). *Nudge: Improving Decisions About Health, Wealth, and Happiness*. Yale University Press.
-- James G. March (1994). *A Primer on Decision Making: How Decisions Happen*. Free Press.
+* Daniel Kahneman (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
+* Annie Duke (2018). *Thinking in Bets: Making Smarter Decisions When You Don’t Have All the Facts*. Portfolio.
+* Herbert A. Simon (1997). *Administrative Behavior: A Study of Decision-Making Processes in Administrative Organizations*. Free Press.
+* James G. March (1994). *A Primer on Decision Making: How Decisions Happen*. Free Press.
+* Richard H. Thaler and Cass R. Sunstein (2008). *Nudge: Improving Decisions About Health, Wealth, and Happiness*. Yale University Press.
