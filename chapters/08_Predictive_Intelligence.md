@@ -143,7 +143,7 @@ Design suggestions:
 
 ---
 
-## Example Section — Predicting Customer Churn in a Subscription Service
+## Example — Predicting Customer Churn in a Subscription Service
 
 Consider a digital subscription service attempting to predict which customers are likely to cancel their subscriptions.
 
@@ -185,7 +185,7 @@ Through this process, the organization moves from analyzing past churn events to
 
 ---
 
-## Final Section — Prediction as a Bridge Between Data and Decisions
+## Prediction as a Bridge Between Data and Decisions
 
 * Predictive intelligence extends analytics by estimating **what is likely to happen next**.
 * Machine learning models learn patterns from historical data and apply those patterns to new situations.
