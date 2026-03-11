@@ -92,7 +92,7 @@ Actions then produce outcomes that affect both the organization and its environm
 
 ---
 
-## Example Section — Inventory Decisions in Retail
+## Example — Inventory Decisions in Retail
 
 * A retail company must decide how much inventory to stock before an upcoming sales season.
 * The environment includes uncertain factors such as customer demand, competitor promotions, and economic conditions.
