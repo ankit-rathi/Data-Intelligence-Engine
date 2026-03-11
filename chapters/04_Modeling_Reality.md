@@ -143,7 +143,7 @@ Design suggestions:
 
 ---
 
-## Example Section — Modeling an E-Commerce Purchase
+## Example — Modeling an E-Commerce Purchase
 
 Consider how an e-commerce platform models the simple act of a customer buying a product.
 
@@ -193,7 +193,7 @@ Without a data model connecting customers, products, and purchase events, each t
 
 ---
 
-## Final Section — Why Modeling Reality Is the Foundation of Data Systems
+## Why Modeling Reality Is the Foundation of Data Systems
 
 * Every information system begins with a **model of the world it is trying to represent**.
 * By identifying entities, attributes, and events, organizations create a structured vocabulary for recording observations.
