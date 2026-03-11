@@ -201,8 +201,9 @@ Without a data model connecting customers, products, and purchase events, each t
 * Without a model, data fragments remain disconnected and difficult to interpret.
 * Modeling reality therefore serves as the **foundation upon which all analytics, intelligence, and decision systems are built**.
 
-In the next chapter, the focus shifts from modeling structure to **capturing events as data**.
-Once reality is modeled, organizations must determine **how observations are recorded, stored, and transformed into usable datasets**.
+**Transition to the Next Chapter**
+
+Modeling reality helps organizations define the entities, events, and relationships that matter for decision-making. But conceptual models only become useful when they are connected to real observations from the world. The next chapter explores how organizations capture these observations through measurement systems and data collection processes..
 
 ---
 
