@@ -1,148 +1,205 @@
-## Chapter 10 — Decision Design
-
-### Chapter Crux
-
-Predictions only create value when they are translated into decisions.
-
-Machine learning models generate probabilities, forecasts, or classifications about future outcomes. However, predictions alone do not change the real world. Value emerges only when these predictions influence a choice between possible actions.
-
-Decision design focuses on embedding predictions into structured decision processes. This involves defining how predictions translate into actions, setting thresholds for decisions, evaluating risk tradeoffs, and determining when decisions should be automated or guided by human judgment.
-
-A well-designed decision system ensures that intelligence produced by analytics and machine learning directly influences operational outcomes. Without this connection, predictive models remain isolated insights rather than drivers of value.
+# Chapter 10 — Decision Design
 
 ---
 
-### Problem
+## When Predictions Must Become Choices
 
-Many organizations invest heavily in predictive models but fail to convert predictions into decisions.
+* Predictive models estimate the likelihood of future outcomes, but predictions alone do not change what happens in the real world.
+* Organizations create value only when predictions influence **decisions and actions**.
+* Without clear decision mechanisms, predictive insights often remain unused or inconsistently interpreted by different individuals.
+* For example:
 
-Common issues include:
-
-* predictions presented in dashboards without clear action rules
-* unclear thresholds for acting on model outputs
-* human decision-makers ignoring or mistrusting predictions
-* models producing probabilities without defined decision policies
-
-For example, a model may predict the probability that a customer will churn, but if the organization has no defined policy for responding to that probability, the prediction has little operational value.
-
-The gap arises because **prediction and decision are different problems**. Prediction estimates what might happen, while decision-making determines what action should be taken given those probabilities and associated risks.
-
-Without structured decision design, intelligence systems remain disconnected from operational outcomes.
+  * a churn prediction only matters if it triggers a retention intervention
+  * a fraud probability only matters if it affects transaction approval
+* The critical challenge is determining **how predictive insights should translate into operational choices**.
+* Decision design addresses this challenge by defining structured rules that connect predictions to actions.
 
 ---
 
-### Key Diagram
+## Defining Decisions Within Organizational Systems
 
-**From Prediction to Decision**
+* Decision design begins by identifying the **specific decisions that occur within a process**.
+* These decisions often appear at key points where the organization must choose between alternatives.
+* Examples include:
 
-```id="4h9a8u"
+  * approving or rejecting a loan application
+  * targeting or excluding a customer from a promotion
+  * flagging or allowing a financial transaction
+* Each decision involves:
+
+  * a **set of possible actions**
+  * available **information or predictions**
+  * potential **outcomes associated with each action**
+* Clarifying these elements ensures that predictive insights are tied to **explicit decision points rather than vague interpretation**.
+
+---
+
+## Evaluating Alternatives Through Decision Theory
+
+* Decision theory provides a framework for choosing between possible actions under uncertainty.
+* Instead of selecting actions intuitively, decision theory evaluates alternatives using:
+
+  * predicted probabilities of outcomes
+  * expected costs and benefits
+  * potential risks or trade-offs
+* This approach allows organizations to compare actions in terms of **expected value**.
+* For example:
+
+  * approving a loan with moderate default risk may still be profitable if interest revenue exceeds expected losses.
+* Structured evaluation ensures that decisions are guided by **quantitative reasoning rather than subjective interpretation**.
+
+---
+
+## Translating Predictions into Decision Rules
+
+* To operationalize decisions, organizations often define **decision rules** that connect predictions to actions.
+* These rules typically rely on thresholds that determine when a particular action should occur.
+* For example:
+
+  * reject a loan if predicted default probability exceeds a defined limit
+  * trigger a customer retention campaign if churn probability exceeds a threshold
+  * flag transactions for review if fraud risk crosses a risk score threshold
+* Decision rules create **consistency and repeatability**, ensuring that predictive insights are applied systematically.
+* Well-designed rules prevent situations where the same prediction leads to different actions depending on who interprets it.
+
+---
+
+## Balancing Human Judgment and Automated Decisions
+
+* Not all decisions can or should be fully automated.
+
+* Some decisions require contextual understanding, ethical considerations, or complex judgment.
+
+* Organizations often combine automation with human oversight through different decision structures:
+
+  * **Fully automated decisions**
+
+    * systems apply rules and execute actions immediately
+
+  * **human-in-the-loop decisions**
+
+    * systems provide recommendations while humans make final choices
+
+  * **human-only decisions supported by analytics**
+
+    * predictions inform but do not directly trigger actions
+
+* Selecting the appropriate level of automation ensures that decision systems remain **both efficient and responsible**.
+
+---
+
+## Diagram — Conceptual Illustration
+
+```
 Prediction
-   ↓
+(Estimated Probability)
+        ↓
 Decision Rule
-(Thresholds & Policies)
-   ↓
-Chosen Action
-   ↓
-Outcome
-   ↓
-Business Value
+(Threshold / Evaluation)
+        ↓
+Selected Action
+        ↓
+Operational Execution
+        ↓
+Real-World Outcome
 ```
 
-Explanation:
+### Explanation
 
-* **Prediction:** estimated probability or forecast
-* **Decision rule:** policy defining when to act
-* **Action:** operational response to the prediction
-* **Outcome:** real-world result of the action
+The diagram illustrates how predictive intelligence becomes operational action through decision design.
 
-Decision design converts probabilistic information into operational behavior.
+* A **prediction** provides an estimate of the likelihood of an outcome.
+* A **decision rule** evaluates the prediction using thresholds or expected value calculations.
+* Based on this evaluation, the system selects an **action**.
+* The action is executed operationally, producing a **real-world outcome**.
 
----
-
-### Core Mechanism
-
-Effective decision design typically involves several key components.
-
-**1. Decision Theory**
-
-Decision theory provides the conceptual foundation for choosing actions under uncertainty. It emphasizes evaluating options based on expected outcomes rather than relying on intuition alone.
-
-Decisions consider both the probability of events and the consequences of possible actions.
+The diagram highlights that predictions only influence reality when they pass through a **structured decision mechanism**.
 
 ---
 
-**2. Decision Thresholds**
+### Guidance for Drawing in PowerPoint
 
-Many predictive models output probabilities. Decision thresholds determine when a specific action should be taken.
+Layout:
 
-For example:
+* Use a **vertical flow diagram** showing the transition from prediction to outcome.
 
-* approve a loan if default probability < 5%
-* flag a transaction if fraud probability > 80%
+Shapes:
 
-Thresholds convert probabilistic predictions into actionable rules.
+* Rectangles for each stage:
 
----
+  * Prediction
+  * Decision Rule
+  * Selected Action
+  * Operational Execution
+  * Real-World Outcome
 
-**3. Risk Tradeoffs**
+Arrows:
 
-Different decisions involve tradeoffs between false positives and false negatives.
+* Downward arrows connecting each stage.
 
-Examples include:
+Design suggestions:
 
-* approving risky loans vs rejecting good borrowers
-* blocking legitimate transactions vs allowing fraud
-
-Decision design evaluates these tradeoffs based on business objectives and risk tolerance.
-
----
-
-**4. Expected Value**
-
-Expected value analysis weighs the potential benefits and costs of decisions under uncertainty.
-
-Organizations often choose the action that maximizes expected value across possible outcomes.
+* Highlight **Decision Rule** slightly to emphasize its role as the bridge between intelligence and action.
+* Keep shapes evenly spaced.
+* Use concise labels within each box.
 
 ---
 
-**5. Automation vs Human Judgment**
+## Example Section — Automated Fraud Detection in Digital Payments
 
-Some decisions can be fully automated when predictions are reliable and the cost of mistakes is manageable.
+Consider how a digital payment platform uses predictive intelligence to detect fraudulent transactions.
 
-Other decisions may require human oversight when:
+Mapping this scenario to the diagram:
 
-* stakes are high
-* context is complex
-* ethical considerations are involved
+1. **Prediction**
 
-Decision systems often combine automated predictions with human judgment.
+   * A machine learning model analyzes each transaction and estimates the **probability of fraud**.
+
+2. **Decision Rule**
+
+   * The platform defines risk thresholds:
+
+     * low risk → allow transaction
+     * medium risk → require additional authentication
+     * high risk → block transaction
+
+3. **Selected Action**
+
+   * Based on the predicted fraud probability, the system chooses one of these actions.
+
+4. **Operational Execution**
+
+   * The payment platform automatically enforces the chosen response in real time.
+
+5. **Real-World Outcome**
+
+   * Fraudulent transactions may be prevented while legitimate transactions continue smoothly.
+
+Through this process, predictive intelligence becomes operational value by guiding **consistent decision-making within the payment system**.
 
 ---
 
-### Example
+## Final Section — Designing Decisions That Turn Intelligence into Action
 
-A credit card company uses a machine learning model to detect fraudulent transactions.
+* Predictive intelligence provides estimates about future outcomes, but predictions alone do not create impact.
+* Decision design connects predictive insights to operational choices through structured evaluation and rules.
+* By defining decision points, comparing alternatives, and establishing thresholds, organizations ensure that predictions consistently influence actions.
+* Effective decision design therefore transforms predictive models into **practical decision systems that shape real-world outcomes**.
 
-The model predicts the probability that a transaction is fraudulent.
-
-Decision design defines how to act on these predictions:
-
-* if fraud probability exceeds a certain threshold, the transaction is temporarily blocked
-* the customer is notified to confirm the transaction
-* if the probability is moderate, the transaction proceeds but is flagged for monitoring
-
-By defining these decision rules, the organization converts predictive intelligence into real-time operational actions that reduce fraud losses while minimizing disruption to legitimate customers.
+The next chapter explores how these decisions trigger **actions within operational systems**, completing the transition from intelligence to real-world intervention.
 
 ---
 
-### Insight
+## References
 
-Predictions describe what might happen, but **decisions determine what actually happens**.
+* Howard, Ronald A., & Abbas, Ali E. *Foundations of Decision Analysis.* Pearson, 2015.
 
-Many organizations focus on building better models while neglecting the design of the decision processes that use those models. As a result, valuable intelligence remains disconnected from operational outcomes.
+* Keeney, Ralph L., & Raiffa, Howard. *Decisions with Multiple Objectives: Preferences and Value Trade-Offs.* Cambridge University Press, 1993.
 
-True value emerges when predictions are integrated into decision policies that guide actions under uncertainty.
+* Hastie, Trevor, Tibshirani, Robert, & Friedman, Jerome. *The Elements of Statistical Learning.* Springer, 2009.
 
-In other words:
+* Provost, Foster, & Fawcett, Tom. *Data Science for Business.* O’Reilly Media, 2013.
 
-> Predictive intelligence becomes valuable only when it is embedded in well-designed decision systems that translate probabilities into actions.
+* Pearl, Judea. *Causality: Models, Reasoning, and Inference.* Cambridge University Press, 2009.
+
+* Shmueli, Galit & Koppius, Otto. “Predictive Analytics in Information Systems Research.” *MIS Quarterly*, 2011.
