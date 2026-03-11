@@ -194,8 +194,9 @@ This example shows how analytical thinking systematically converts historical ob
 * Critical reasoning ensures that patterns in data are evaluated carefully rather than accepted at face value.
 * The insights produced at this stage help organizations **understand the forces shaping past outcomes**.
 
-However, understanding the past is only one part of intelligent decision-making.
-The next step is to use data and analytical techniques to **anticipate future outcomes**, enabling organizations to move from explanation toward prediction.
+**Transition to the Next Chapter**
+
+Analytical thinking allows organizations to understand patterns in historical data and explain what has happened. But many important decisions depend on anticipating what might happen next. The next chapter explores predictive intelligence and how models use data to estimate future outcomes.
 
 ---
 
