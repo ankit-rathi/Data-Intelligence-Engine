@@ -196,8 +196,9 @@ As fraud tactics evolve, the intelligence loop allows the detection system to **
 * Through repeated retraining and evaluation, models adapt to changing conditions and maintain predictive reliability.
 * This approach transforms predictive systems from static tools into **dynamic learning systems**.
 
-While predictive intelligence anticipates potential outcomes, organizations must still determine **how to act on those predictions**.
-The next stage in decision intelligence focuses on translating insights and forecasts into **structured decision processes that guide organizational action**.
+**Transition to the Next Chapter**
+
+With predictive intelligence in place, organizations can begin applying analytical insights to guide real decisions. But turning intelligence into action requires careful design of decision processes. The next chapter explores how organizations structure and design decisions so that intelligence can influence outcomes effectively.
 
 ---
 
