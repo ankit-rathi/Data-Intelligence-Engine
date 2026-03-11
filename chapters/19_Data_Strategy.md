@@ -142,7 +142,7 @@ Design suggestions:
 
 ---
 
-## Example Section — Data Strategy for a Ride-Sharing Platform
+## Example — Data Strategy for a Ride-Sharing Platform
 
 Consider how a ride-sharing company develops its data strategy.
 
@@ -185,7 +185,7 @@ Through this strategic alignment, the company ensures that its data capabilities
 
 ---
 
-## Final Section — From Data Assets to Decision Advantage
+## From Data Assets to Decision Advantage
 
 * Data strategy ensures that investments in data infrastructure and analytics translate into meaningful business outcomes.
 * By identifying the decisions that drive performance, organizations can focus their data capabilities where they create the most value.
