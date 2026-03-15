@@ -46,7 +46,7 @@ Although each stage of this loop is familiar in isolation—data engineering foc
 
 Modern organizations are not just building data platforms or machine learning models. They are building **decision systems**—systems that continuously convert information into action and learning.
 
-This book refers to these systems as **Decision Intelligence Systems**.
+This book refers to these systems as **Decision Intelligence Engine**.
 
 A decision intelligence system integrates data infrastructure, analytics, machine learning, and operational workflows into a coherent architecture whose ultimate purpose is to improve decisions over time.
 
