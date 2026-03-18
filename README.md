@@ -3,7 +3,7 @@
 ### How Data, AI, and Feedback Systems Turn Observations into Better Decisions
 
 
-![](https://cdn-images-1.medium.com/max/2600/1*WnX0hjQsLgV6_2k6UbRHRA.png)
+![](https://cdn-images-1.medium.com/max/1800/1*uSMoCJ0CW2YvRsxSMqYkuQ.png)
 
 # About the Book
 
