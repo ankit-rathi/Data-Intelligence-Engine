@@ -2,7 +2,7 @@
 
 ---
 
-## When Data Becomes Questionable *(Opening Observation)*
+## When Data Becomes Questionable 
 
 As organizations scale their use of data, decision-making increasingly depends on dashboards, analytical reports, and machine learning outputs. Metrics guide product changes, operational adjustments, and strategic direction. In theory, data replaces guesswork with measurable insight.
 
@@ -12,7 +12,7 @@ These issues are not isolated errors. They reflect systemic weaknesses in how da
 
 ---
 
-## The Fragility of Data Pipelines *(Problem)*
+## The Fragility of Data Pipelines
 
 Data moves through complex pipelines before it reaches analytical systems. It is generated in operational environments, ingested into storage systems, transformed through multiple processes, and finally presented in dashboards or models. Each stage introduces potential points of failure.
 
@@ -24,7 +24,7 @@ When stakeholders lose confidence in data, they revert to manual validation or i
 
 ---
 
-## Building Confidence Through Structured Trust *(Core Idea)*
+## Building Confidence Through Structured Trust 
 
 Data trust is established through a combination of governance, quality control, and clear ownership. It is not an inherent property of data but an outcome of well-designed systems and processes.
 
@@ -34,7 +34,7 @@ By creating a trusted data layer, organizations provide a stable foundation for 
 
 ---
 
-## From Raw Data to Trusted Data *(System Model)*
+## From Raw Data to Trusted Data 
 
 The transformation of raw data into trusted data can be represented as:
 
@@ -52,7 +52,7 @@ These combined controls produce a **trusted data layer**. This layer consists of
 
 ---
 
-## Mechanisms for Establishing Data Trust *(Mechanism)*
+## Mechanisms for Establishing Data Trust 
 
 ### Data Quality Dimensions
 
@@ -98,7 +98,7 @@ They act as the interface between raw data and analytical systems. By providing 
 
 ---
 
-## Example: Data Trust in Healthcare Systems *(Real-World Example)*
+## Example: Data Trust in Healthcare Systems 
 
 Healthcare organizations operate in environments where data accuracy is critical. Clinical decisions, regulatory reporting, and medical research all depend on reliable data from multiple sources, including patient records, laboratory systems, and clinical workflows.
 
@@ -110,7 +110,7 @@ Through these mechanisms, healthcare organizations create trusted datasets that 
 
 ---
 
-## Trust as the Foundation of Decision Systems *(Strategic Insight)*
+## Trust as the Foundation of Decision Systems 
 
 Data trust is a prerequisite for effective decision intelligence. Without confidence in data, analytics and machine learning systems lose credibility. Decisions become uncertain, and organizations revert to manual verification or intuition.
 
