@@ -2,7 +2,7 @@
 
 ---
 
-## Continuous Variation in Digital Products *(Opening Observation)*
+## Continuous Variation in Digital Products 
 
 Modern digital platforms rarely operate as static systems. Product interfaces, recommendation algorithms, pricing strategies, and notification policies are continuously adjusted and refined. At any given moment, different users interacting with the same application may experience slightly different versions of a feature.
 
@@ -12,7 +12,7 @@ Over time, this systematic variation becomes a learning mechanism. Instead of re
 
 ---
 
-## The Limits of Observational Learning *(Problem)*
+## The Limits of Observational Learning 
 
 Most organizational data is observational. It reflects what happened under existing conditions but does not clearly explain why it happened. Multiple variables change simultaneously in real-world systems, making it difficult to isolate the effect of any single decision.
 
@@ -24,7 +24,7 @@ To overcome this, organizations require structured methods that isolate the impa
 
 ---
 
-## Learning Through Controlled Comparison *(Core Idea)*
+## Learning Through Controlled Comparison
 
 Experimentation systems address this challenge by enabling controlled comparisons between alternative decisions. Instead of observing a single version of reality, organizations deliberately create multiple variants and measure their outcomes.
 
@@ -34,7 +34,7 @@ This approach transforms operational systems into learning environments. Decisio
 
 ---
 
-## The Structure of an Experiment *(System Model)*
+## The Structure of an Experiment 
 
 The core structure of experimentation can be represented as:
 
@@ -52,7 +52,7 @@ The final step is **outcome comparison**. By analyzing differences in outcomes b
 
 ---
 
-## Mechanisms of Experimentation Systems *(Mechanism)*
+## Mechanisms of Experimentation Systems 
 
 ### A/B Testing Fundamentals
 
@@ -98,7 +98,7 @@ This acceleration enables faster iteration and adaptation. Learning becomes an a
 
 ---
 
-## Example: Experimentation in Streaming Platforms *(Real-World Example)*
+## Example: Experimentation in Streaming Platforms 
 
 Streaming platforms such as Netflix operate extensive experimentation systems to refine user experience. They continuously test variations in recommendation algorithms, interface layouts, and content presentation strategies.
 
@@ -110,7 +110,7 @@ By comparing outcomes across groups, the platform identifies which changes impro
 
 ---
 
-## From Intuition to Evidence-Driven Decisions *(Strategic Insight)*
+## From Intuition to Evidence-Driven Decisions 
 
 Experimentation systems fundamentally change how organizations make decisions. Instead of relying on intuition or indirect signals, decisions are evaluated through controlled, measurable comparisons.
 
