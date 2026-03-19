@@ -42,11 +42,11 @@ The structure of a decision-centered data strategy can be represented as:
 organizational goals → decision map → intelligence systems
 ```
 
-The process begins with **organizational goals**, which define the outcomes the organization seeks to achieve. These may include revenue growth, cost efficiency, risk reduction, or improvements in customer experience. Goals provide the strategic context for all data initiatives.
+The process begins with *organizational goals*, which define the outcomes the organization seeks to achieve. These may include revenue growth, cost efficiency, risk reduction, or improvements in customer experience. Goals provide the strategic context for all data initiatives.
 
-From these goals, organizations construct a **decision map**. This map identifies the key operational and strategic decisions that directly influence outcomes. Decisions may exist across functions such as product, operations, marketing, and finance.
+From these goals, organizations construct a *decision map*. This map identifies the key operational and strategic decisions that directly influence outcomes. Decisions may exist across functions such as product, operations, marketing, and finance.
 
-Finally, **intelligence systems** are developed to improve these decisions. These systems include data pipelines, analytics tools, and machine learning models. Their purpose is not to exist independently, but to enhance decision-making by increasing accuracy, speed, or scalability.
+Finally, *intelligence systems* are developed to improve these decisions. These systems include data pipelines, analytics tools, and machine learning models. Their purpose is not to exist independently, but to enhance decision-making by increasing accuracy, speed, or scalability.
 
 This model ensures that every data investment is directly linked to a decision and, ultimately, to a business outcome.
 
