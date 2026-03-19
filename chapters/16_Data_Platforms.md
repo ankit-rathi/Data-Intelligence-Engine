@@ -42,15 +42,15 @@ The structure of a data platform can be represented as a sequential flow:
 data sources → ingestion → warehouse/lakehouse → analytics → ML
 ```
 
-The process begins with **data sources**, which generate raw observations. These sources include product applications, transactional systems, and operational processes. They produce structured and semi-structured data that reflects real-world activity.
+The process begins with *data sources*, which generate raw observations. These sources include product applications, transactional systems, and operational processes. They produce structured and semi-structured data that reflects real-world activity.
 
-**Ingestion systems** collect data from these sources and transfer it into centralized storage. This step ensures that data is captured consistently and made available for further processing.
+*Ingestion systems* collect data from these sources and transfer it into centralized storage. This step ensures that data is captured consistently and made available for further processing.
 
-The data is then stored in a **warehouse or lakehouse**. These systems organize large volumes of data, enabling efficient querying and transformation. They serve as the central repository for analytical and machine learning workloads.
+The data is then stored in a *warehouse or lakehouse*. These systems organize large volumes of data, enabling efficient querying and transformation. They serve as the central repository for analytical and machine learning workloads.
 
-**Analytics systems** operate on this stored data to generate metrics, dashboards, and insights. These outputs inform business decisions and provide visibility into system performance.
+*Analytics systems* operate on this stored data to generate metrics, dashboards, and insights. These outputs inform business decisions and provide visibility into system performance.
 
-Finally, **machine learning systems** use the same data to train models and build predictive capabilities. This integration ensures that intelligence systems are grounded in a consistent and comprehensive data foundation.
+Finally, *machine learning systems* use the same data to train models and build predictive capabilities. This integration ensures that intelligence systems are grounded in a consistent and comprehensive data foundation.
 
 ---
 
