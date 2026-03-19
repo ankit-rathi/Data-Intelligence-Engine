@@ -44,15 +44,15 @@ The lifecycle of predictive systems can be represented as a recurring loop:
 data → training → deployment → feedback → retraining
 ```
 
-The cycle begins with **data**, which includes historical observations used to train models. This data provides examples of how inputs relate to outcomes.
+The cycle begins with *data*, which includes historical observations used to train models. This data provides examples of how inputs relate to outcomes.
 
-During **training**, models are constructed using prepared datasets and engineered features. Algorithms learn patterns that minimize prediction error on historical data.
+During *training*, models are constructed using prepared datasets and engineered features. Algorithms learn patterns that minimize prediction error on historical data.
 
-Once trained, models are moved into **deployment**, where they are integrated into production systems. These models generate predictions in real-world applications such as recommendations, risk scoring, or demand forecasting.
+Once trained, models are moved into *deployment*, where they are integrated into production systems. These models generate predictions in real-world applications such as recommendations, risk scoring, or demand forecasting.
 
-After deployment, **feedback** is collected. Systems record both the predictions made by the model and the actual outcomes that occur. This feedback provides new labeled data reflecting current system behavior.
+After deployment, *feedback* is collected. Systems record both the predictions made by the model and the actual outcomes that occur. This feedback provides new labeled data reflecting current system behavior.
 
-Finally, **retraining** incorporates this expanded dataset into updated models. The cycle then repeats, allowing the system to continuously adapt to new information.
+Finally, *retraining* incorporates this expanded dataset into updated models. The cycle then repeats, allowing the system to continuously adapt to new information.
 
 ---
 
@@ -122,4 +122,4 @@ Feedback loops play a central role in this process. By capturing outcomes and up
 
 Effective lifecycle management requires more than technical infrastructure. It involves governance, monitoring, and disciplined processes that ensure models are updated responsibly and consistently.
 
-However, predictive systems alone do not determine outcomes. They provide estimates that inform choices, but decisions still require interpretation and action. The next stage of decision intelligence focuses on how predictive outputs are translated into structured choices: **designing decisions**.
+However, predictive systems alone do not determine outcomes. They provide estimates that inform choices, but decisions still require interpretation and action. The next stage of decision intelligence focuses on how predictive outputs are translated into structured choices: *designing decisions*.
