@@ -1,17 +1,17 @@
-### Data as Reality Layer
+### Why Data Exists
 
-**Data exists to convert partial observations of reality into usable signals for decisions under uncertainty**
+**Data reduces uncertainty about reality**
 
 ---
 
-### Core Concept
+### Core Purpose
 
 [Icon Suggestion: eye]
 
-* Reality observation — capture external world signals
-* Uncertainty reduction — improve decision visibility
-* Structured recording — encode observations systematically
-* Decision foundation — support downstream reasoning
+* Reality access — observe external environment signals
+* Uncertainty reduction — improve decision clarity
+* Structured capture — encode observations systematically
+* Decision input — support downstream decision logic
 
 ---
 
@@ -22,7 +22,7 @@
 * Reality events — world generates behaviors
 * Observation layer — sensors capture signals
 * Data encoding — structure into records
-* Stored traces — persist for analysis
+* Stored data — persist for analysis
 
 ---
 
@@ -33,7 +33,7 @@
 * Partial visibility — observe fragments of reality
 * Proxy signals — data approximates real world
 * Aggregated view — combine across time, entities
-* Pattern emergence — trends, correlations surface
+* Pattern detection — trends and anomalies emerge
 
 ---
 
@@ -42,9 +42,9 @@
 [Icon Suggestion: signal]
 
 * Raw data — unprocessed observations collected
-* Information layer — organize, contextualize data
-* Knowledge creation — interpret underlying mechanisms
-* Signal extraction — separate pattern from noise
+* Information layer — organize and contextualize data
+* Knowledge layer — interpret underlying mechanisms
+* Signal extraction — separate signal from noise
 
 ---
 
@@ -52,29 +52,18 @@
 
 [Icon Suggestion: settings]
 
-* Instrument design — define what gets captured
-* Data pipelines — transport, store observations
+* Instrument design — define what gets measured
+* Data pipelines — transport and store observations
 * Coverage gaps — missing or hidden signals
 * Measurement bias — distortions from system design
 
 ---
 
-### Data Constraints
+### Constraints & Value
 
 [Icon Suggestion: warning]
 
-* Noise presence — random, irrelevant variation
-* Observational limits — no controlled experiments
-* Data quality — errors, missing, inconsistency
-* Economic trade-offs — cost vs information value
-
----
-
-### Strategic Role
-
-[Icon Suggestion: system]
-
-* Decision input — fuels inference systems
-* Reusable asset — accumulates over time
-* Historical memory — enables trend analysis
-* First layer — reality → data foundation
+* Noise presence — random variation in signals
+* Data limits — errors, missing, bias
+* Cost trade-offs — measurement vs information value
+* Reusable asset — accumulates for future decisions
