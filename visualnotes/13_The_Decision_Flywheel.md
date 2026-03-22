@@ -1,76 +1,77 @@
-### Chapter 12 — Measuring Decision Outcomes
+### Chapter 13 — The Decision Flywheel
 
 ---
 
-### Outcomes validate and improve decisions
+### Decisions compound through feedback loops
 
 ---
 
-### Outcome Flow
-
-[Icon Suggestion: arrows]
-
-* Decision input — select action under uncertainty
-* Action execution — apply decision in system
-* Outcome generation — produce observable effects
-* Measurement capture — quantify resulting performance
-* Feedback loop — feed results into system
-
----
-
-### Outcome Definition
-
-[Icon Suggestion: target]
-
-* Outcome clarity — define measurable success signals
-* Objective alignment — link outcomes to goals
-* Signal selection — choose relevant indicators
-* Standardization — ensure cross-system consistency
-
----
-
-### Metrics Layer
-
-[Icon Suggestion: chart]
-
-* KPI design — quantify system performance
-* Outcome metrics — measure final business impact
-* Process metrics — track execution quality
-* Time comparison — evaluate trends over periods
-* Benchmarking — compare across strategies
-
----
-
-### Measurement Challenges
-
-[Icon Suggestion: warning]
-
-* Attribution gaps — unclear decision impact links
-* Delayed effects — outcomes lag behind actions
-* External noise — environment distorts results
-* Partial signals — incomplete outcome visibility
-* Metric bias — wrong indicators mislead
-
----
-
-### Evaluation Logic
-
-[Icon Suggestion: gears]
-
-* Outcome analysis — interpret measured results
-* Decision quality — assess logic vs outcome
-* Variance separation — distinguish noise from signal
-* Trade-off evaluation — balance competing objectives
-* Insight extraction — identify performance drivers
-
----
-
-### Learning Loop
+### Core Flywheel
 
 [Icon Suggestion: cycle]
 
-* Feedback integration — feed outcomes into models
-* System refinement — adjust rules and thresholds
-* Continuous learning — improve with new data
-* Adaptive systems — evolve with environment
-* Compounding gains — decisions improve over time
+* Decision step — select action using intelligence
+* Action execution — interact with real environment
+* Outcome signal — observe system response
+* Data generation — capture behavioral evidence
+* Loop restart — feed into next decision
+
+---
+
+### System Flow
+
+[Icon Suggestion: arrows]
+
+* Decision input — apply current decision logic
+* Action trigger — execute within operations
+* Outcome capture — record user/system response
+* Data pipeline — store structured feedback
+* Model update — improve future predictions
+
+---
+
+### Learning Mechanism
+
+[Icon Suggestion: brain]
+
+* Feedback loops — connect outcomes to learning
+* Signal extraction — derive patterns from outcomes
+* Model refinement — update predictive systems
+* Rule adjustment — optimize decision thresholds
+* Continuous learning — evolve with new data
+
+---
+
+### Value Drivers
+
+[Icon Suggestion: growth]
+
+* Data accumulation — increase signal volume
+* Pattern accuracy — improve prediction quality
+* Decision quality — better action selection
+* User alignment — match real preferences
+* System performance — enhance overall outcomes
+
+---
+
+### Flywheel Effects
+
+[Icon Suggestion: infinity]
+
+* Compounding gains — incremental improvements stack
+* Network effects — more users, richer data
+* Reinforcement loops — repeated signals strengthen models
+* Experience improvement — better outcomes drive engagement
+* Growth feedback — usage accelerates learning
+
+---
+
+### Strategic Implication
+
+[Icon Suggestion: target]
+
+* Learning systems — embed feedback into operations
+* Data advantage — scale creates defensibility
+* System integration — align data, models, decisions
+* Adaptive intelligence — evolve with environment
+* Competitive moat — compounding decision quality
