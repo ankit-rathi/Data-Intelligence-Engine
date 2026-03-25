@@ -18,6 +18,9 @@ Written for data professionals, product managers, and business leaders, this boo
 **[Link to all the chapters](https://github.com/ankit-rathi/Decision-Intelligence-Engine/tree/main/chapters)**
 
 ---
+<img width="1918" height="1072" alt="Screenshot 2026-03-25 102133" src="https://github.com/user-attachments/assets/d628c2cd-0620-4ed0-bb14-cebd860d2dc9" />
+
+---
 
 # **Table of Contents**
 
