@@ -39,7 +39,7 @@ This approach reframes data strategy as a decision optimization problem. Instead
 The structure of a decision-centered data strategy can be represented as:
 
 ```text id="p8b29e"
-organizational goals → decision map → intelligence systems
+( Organizational Goals ) → < Decision Map > → { Intelligence Systems }
 ```
 
 The process begins with *organizational goals*, which define the outcomes the organization seeks to achieve. These may include revenue growth, cost efficiency, risk reduction, or improvements in customer experience. Goals provide the strategic context for all data initiatives.
