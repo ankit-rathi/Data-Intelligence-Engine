@@ -43,7 +43,7 @@ The effectiveness of data-driven organizations therefore depends heavily on how 
 The construction of organizational data models can be summarized through a simple conceptual structure:
 
 ```text
-entities + events → data model
+( Entities + Events ) → { Modeling } → [ Data Model ]
 ```
 
 *Entities* represent the core objects that exist within a system. In a business context, these might include customers, products, accounts, orders, or employees. Entities correspond to identifiable components of the organization’s operational environment.
