@@ -5,9 +5,8 @@ This book uses a consistent visual language to explain how organizations convert
 At the center of this book is a single unifying model:
 
 ```
-( Reality ) → [ Data ] → { Intelligence } → < Decision > → [ Action ] → ( Outcome )
-                                              ↺
-                                          ( Learning )
+( Reality ) → [ Data ] → { Intelligence } → < Decision > → [ Action ] →
+( Outcome ) ↺ ( Learning )
 ```
 
 This loop represents the transformation from real-world events into measurable outcomes, along with the feedback that improves future decisions. Every chapter explores a specific part of this system, extending or refining this core structure.
