@@ -118,4 +118,4 @@ Establishing trusted data layers allows teams to focus on analysis rather than v
 
 As systems scale, maintaining trust becomes more complex. Data flows increase, transformations multiply, and dependencies grow. Ensuring reliability requires continuous monitoring and governance.
 
-This introduces the next challenge in decision intelligence systems: not only trusting data at a point in time, but continuously observing its behavior. This leads to the need for observability systems that monitor data pipelines and decision processes in real time.
+This introduces the next challenge in decision intelligence systems: not only trusting data at a point in time, but continuously observing its behavior. This leads to the need for *observability systems* that monitor data pipelines and decision processes in real time.
