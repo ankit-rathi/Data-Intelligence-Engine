@@ -1,5 +1,7 @@
 # How to Read This Book
 
+---
+
 This book uses a consistent visual language to explain how organizations convert observations into decisions and outcomes. As the systems discussed become more complex, diagrams are used to simplify structure, clarify flow, and make relationships between components explicit.
 
 At the center of this book is a single unifying model:
