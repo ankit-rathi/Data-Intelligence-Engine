@@ -25,8 +25,8 @@ Written for data professionals, product managers, and business leaders, this boo
 # **Table of Contents**
 ---
 
-- **i. How to Read this Book**
-- **ii. Preface**
+- i. [How to Read this Book](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/0-_How_to_Read_This_Book.md)
+- ii. [Preface](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/00_Preface.md)
 
 ---
 
@@ -34,11 +34,11 @@ Written for data professionals, product managers, and business leaders, this boo
 
 Modern organizations exist to make decisions under uncertainty and require structured systems to transform information into action.
 
-1. **The Decision Problem** - Decisions as economic actions under uncertainty.
+1. [The Decision Problem](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/01_The_Decision_Problem.md) - Decisions as economic actions under uncertainty.
 
-2. **Why Data Exists** - Data as a mechanism for reducing uncertainty.
+2. [Why Data Exists](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/02_Why_Data_Exists.md) - Data as a mechanism for reducing uncertainty.
 
-3. **The Decision Intelligence Loop** - The system that transforms observations into actions and outcomes.
+3. [The Decision Intelligence Loop](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/03_The_Decision_Intelligence_Loop.md) - The system that transforms observations into actions and outcomes.
 
 ---
 
@@ -46,11 +46,11 @@ Modern organizations exist to make decisions under uncertainty and require struc
 
 How real-world systems become measurable observations.
 
-4. **Modeling Reality** - Representing complex systems through data models.
+4. [Modeling Reality](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/04_Modeling_Reality.md) - Representing complex systems through data models.
 
-5. **Observing and Capturing Data** - Converting real-world events into structured data.
+5. [Observing and Capturing Data](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/05_Observing_and_Capturing_Data.md) - Converting real-world events into structured data.
 
-6. **Integrating Data Systems** - Unifying fragmented data into coherent datasets.
+6. [Integrating Data Systems](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/06_Integrating_Data_Systems.md) - Unifying fragmented data into coherent datasets.
 
 ---
 
@@ -58,11 +58,11 @@ How real-world systems become measurable observations.
 
 How organizations transform raw data into understanding and prediction.
 
-7. **Analytical Intelligence** - Explaining what happened and why.
+7. [Analytical Intelligence](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/07_Analytical_Intelligence.md) - Explaining what happened and why.
 
-8. **Predictive Intelligence** - Anticipating future outcomes using machine learning.
+8. [Predictive Intelligence](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/08_Predictive_Intelligence.md) - Anticipating future outcomes using machine learning.
 
-9. **The Intelligence Lifecycle** - Improving models through feedback and iteration.
+9. [The Intelligence Lifecycle](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/09_The_Intelligence_Lifecycle.md) - Improving models through feedback and iteration.
 
 ---
 
@@ -70,11 +70,11 @@ How organizations transform raw data into understanding and prediction.
 
 How predictions are translated into actions and outcomes.
 
-10. **Designing Decisions** - Translating predictions into decision logic.
+10. [Designing Decisions](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/10_Designing_Decisions.md) - Translating predictions into decision logic.
 
-11. **Operational Decision Systems** - Embedding intelligence into real-time workflows.
+11. [Operational Decision Systems](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/11_Operational_Decision_Systems.md) - Embedding intelligence into real-time workflows.
 
-12. **Measuring Decision Outcomes** - Evaluating the impact of decisions through outcomes.
+12. [Measuring Decision Outcomes](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/12_Measuring_Decision_Outcomes.md) - Evaluating the impact of decisions through outcomes.
 
 ---
 
@@ -82,11 +82,11 @@ How predictions are translated into actions and outcomes.
 
 How organizations improve decisions through feedback and learning.
 
-13. **The Decision Flywheel** - Decisions as drivers of compounding intelligence.
+13. [The Decision Flywheel](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/13_The_Decision_Flywheel.md) - Decisions as drivers of compounding intelligence.
 
-14. **Learning and Execution Systems** - Separating model learning from real-time decision execution.
+14. [Learning and Execution Systems](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/14_The_Dual_Loop_Architecture.md) - Separating model learning from real-time decision execution.
 
-15. **Experimentation Systems** - Using controlled experiments to measure causal impact.
+15. [Experimentation Systems](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/15_Experimentation_Systems.md) - Using controlled experiments to measure causal impact.
 
 ---
 
@@ -94,20 +94,20 @@ How organizations improve decisions through feedback and learning.
 
 How organizations operationalize decision intelligence at scale.
 
-16. **Data Platforms** - Infrastructure for storing and processing data at scale.
+16. [Data Platforms](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/16_Data_Platforms.md) - Infrastructure for storing and processing data at scale.
 
-17. **Data Trust** - Ensuring reliability and consistency of data.
+17. [Data Trust](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/17_Data_Trust.md) - Ensuring reliability and consistency of data.
 
-18. **Observability for Data and Decisions** - Monitoring the health of data and decision systems.
+18. [Observability for Data and Decisions](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/18_Observability_for_Data_and_Decisions.md) - Monitoring the health of data and decision systems.
 
-19. **Data Strategy** - Prioritizing high-impact decisions for intelligence investment.
+19. [Data Strategy](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/19_Data_Strategy.md) - Prioritizing high-impact decisions for intelligence investment.
 
-20. **Governance of Decision Systems** - Controlling and aligning decision systems end-to-end.
+20. [Governance of Decision Systems](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/20_Governance_of_Decision_Systems.md) - Controlling and aligning decision systems end-to-end.
 
-21. **The Data-Driven Organization** - Institutionalizing continuous learning through decisions.
+21. [The Data-Driven Organization](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/21_Data_Driven_Organization.md) - Institutionalizing continuous learning through decisions.
 
 ---
 
-- **iii. Bibliograpy**
-- **iv. About the Author**
+- iii. [Bibliograpy](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/98_Bibliography.md)
+- iv. [About the Author](https://github.com/ankit-rathi/Designing-Decision-Systems/blob/main/chapters/99_About_The_Author.md)
 
