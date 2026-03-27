@@ -90,4 +90,4 @@ Governance transforms decision systems from experimental capabilities into depen
 
 This approach enables scalable automation without sacrificing accountability. It also ensures that learning processes strengthen system performance rather than amplifying hidden errors. As decision systems become central to operations, governance becomes essential for maintaining reliability and alignment.
 
-Organizations that implement end-to-end governance gain a structural advantage. They not only make better decisions but also improve how decisions are made over time. This creates a compounding cycle of reliability, learning, and performance—defining the foundation of a truly data-driven organization.
+Organizations that implement end-to-end governance gain a structural advantage. They not only make better decisions but also improve how decisions are made over time. This creates a compounding cycle of reliability, learning, and performance—defining the foundation of a truly *data-driven organization*.
